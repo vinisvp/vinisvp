@@ -1,7 +1,7 @@
 ## About Me!🤓
 * Studying Analysis and Systems Development at college!🎓
 * Focus on Backend development👨‍💻
-* Always getting knowledge and learning with my mistakes!🤔
+* Always acquiring knowledge and learning from my mistakes!🤔
 * Looking for jobs, to improve my hard skills and soft skills🏋️
 <br/><br/>*~Raw raw, fight the power*!☝️😎
 
