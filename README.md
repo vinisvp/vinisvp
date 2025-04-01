@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" height="40" alt="Spring Boot logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="40" alt="C Sharp logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" height="40" alt="Python logo" />
   <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" height="40" alt="SQL Server logo" />
   <img src="https://logospng.org/download/mysql/mysql-1024.png" height="40" alt="MySQL logo" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Git logo" />
